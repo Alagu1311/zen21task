@@ -1,0 +1,41 @@
+#decimg{
+  width: 400px;
+  height: 400px;
+}
+#align{
+  border: 1px solid black;
+  width: 500px;
+  height: 800px;
+  justify-content: center;
+  padding: 50px;
+  position: relative;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  margin: 0 auto;
+
+
+}
+#itealign{
+  position: relative;
+  left: 150px;
+  font-size: x-large;
+  padding: 20px;
+
+}
+#caral1{
+  position: absolute;
+  left: 200px;
+  width: 150px;
+}
+#cartpos{
+  position: relative;
+  left: 1100px;
+  border: 1px solid black;
+  width: 50px;
+  padding: 10px;
+  
+}
+#alignh{
+  position: absolute;
+  left: 500px;
+}
